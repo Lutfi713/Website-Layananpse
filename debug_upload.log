@@ -1,0 +1,330 @@
+2026-02-26 05:45:24 - Processing file_risiko
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:45:24 - Processing file_klasifikasi
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:45:24 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:50:28 - Processing file_risiko
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:50:28 - Processing file_klasifikasi
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:50:28 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:53:05 - Processing file_risiko
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:53:05 - Processing file_klasifikasi
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:53:05 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 05:56:46 - Processing file_risiko
+Array
+(
+    [name] => Kelas 1-6.pdf
+    [full_path] => Kelas 1-6.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php9E6D.tmp
+    [error] => 0
+    [size] => 102877
+)
+2026-02-26 05:56:46 - Processing file_klasifikasi
+Array
+(
+    [name] => Sertifikat PSE - ghjk.pdf
+    [full_path] => Sertifikat PSE - ghjk.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php9E7E.tmp
+    [error] => 0
+    [size] => 828299
+)
+2026-02-26 05:56:46 - Processing dokumen_pendukung
+Array
+(
+    [name] => slip-gaji-Budi Santoso-1-2026 (1).pdf
+    [full_path] => slip-gaji-Budi Santoso-1-2026 (1).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php9E7F.tmp
+    [error] => 0
+    [size] => 45156
+)
+2026-02-26 06:40:25 - Processing file_risiko
+Array
+(
+    [name] => 1. Daftar Hadir.xlsx
+    [full_path] => 1. Daftar Hadir.xlsx
+    [type] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php965F.tmp
+    [error] => 0
+    [size] => 56612
+)
+2026-02-26 06:40:25 - Processing file_klasifikasi
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-02-26 06:40:25 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-03-02 07:16:53 - Processing file_risiko
+Array
+(
+    [name] => rekap-evaluasi-2026-T1 (2).pdf
+    [full_path] => rekap-evaluasi-2026-T1 (2).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php30D.tmp
+    [error] => 0
+    [size] => 25459
+)
+2026-03-02 07:16:53 - Processing file_klasifikasi
+Array
+(
+    [name] => rekap-evaluasi-2026-T1.pdf
+    [full_path] => rekap-evaluasi-2026-T1.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php31D.tmp
+    [error] => 0
+    [size] => 25459
+)
+2026-03-02 07:16:53 - Processing dokumen_pendukung
+Array
+(
+    [name] => rekap-evaluasi-2026-T1 (2).pdf
+    [full_path] => rekap-evaluasi-2026-T1 (2).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php31E.tmp
+    [error] => 0
+    [size] => 25459
+)
+2026-03-02 08:48:05 - Processing file_risiko
+Array
+(
+    [name] => Sertifikat-TDPSE-2026-0011-sjhj (2).pdf
+    [full_path] => Sertifikat-TDPSE-2026-0011-sjhj (2).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php806A.tmp
+    [error] => 0
+    [size] => 27075676
+)
+2026-03-02 08:48:05 - Processing file_klasifikasi
+Array
+(
+    [name] => rekap-evaluasi-2026-T1 (2).pdf
+    [full_path] => rekap-evaluasi-2026-T1 (2).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php83A7.tmp
+    [error] => 0
+    [size] => 25459
+)
+2026-03-02 08:48:05 - Processing dokumen_pendukung
+Array
+(
+    [name] => Sertifikat-TDPSE-2026-0011-sjhj (2).pdf
+    [full_path] => Sertifikat-TDPSE-2026-0011-sjhj (2).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php83A8.tmp
+    [error] => 0
+    [size] => 27075676
+)
+2026-03-03 06:56:08 - Processing file_risiko
+Array
+(
+    [name] => Kartu_Gudang_2026-01_BRG0010 (8).pdf
+    [full_path] => Kartu_Gudang_2026-01_BRG0010 (8).pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php669B.tmp
+    [error] => 0
+    [size] => 29586
+)
+2026-03-03 06:56:08 - Processing file_klasifikasi
+Array
+(
+    [name] => Revisi Website.pdf
+    [full_path] => Revisi Website.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\Users\user\AppData\Local\Temp\php669C.tmp
+    [error] => 0
+    [size] => 104363
+)
+2026-03-03 06:56:08 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-03-04 09:43:58 - Processing file_risiko
+Array
+(
+    [name] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [full_path] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\phpF0FD.tmp
+    [error] => 0
+    [size] => 172194
+)
+2026-03-04 09:43:58 - Processing file_klasifikasi
+Array
+(
+    [name] => Lutfi Al Rizky Budiman_235440018_IMK.pdf
+    [full_path] => Lutfi Al Rizky Budiman_235440018_IMK.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\phpF10E.tmp
+    [error] => 0
+    [size] => 432041
+)
+2026-03-04 09:43:58 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-03-05 03:26:42 - Processing file_risiko
+Array
+(
+    [name] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [full_path] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\phpEF3B.tmp
+    [error] => 0
+    [size] => 172194
+)
+2026-03-05 03:26:42 - Processing file_klasifikasi
+Array
+(
+    [name] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [full_path] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\phpEF4C.tmp
+    [error] => 0
+    [size] => 172194
+)
+2026-03-05 03:26:42 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)
+2026-03-06 03:25:46 - Processing file_risiko
+Array
+(
+    [name] => Makalah manajemen input atau Output.pdf
+    [full_path] => Makalah manajemen input atau Output.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\php7B58.tmp
+    [error] => 0
+    [size] => 221030
+)
+2026-03-06 03:25:46 - Processing file_klasifikasi
+Array
+(
+    [name] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [full_path] => Lutfi Al Rizky Budiman_235440018 E-Commerce.pdf
+    [type] => application/pdf
+    [tmp_name] => C:\xampp\tmp\php7B59.tmp
+    [error] => 0
+    [size] => 172194
+)
+2026-03-06 03:25:46 - Processing dokumen_pendukung
+Array
+(
+    [name] => 
+    [full_path] => 
+    [type] => 
+    [tmp_name] => 
+    [error] => 4
+    [size] => 0
+)

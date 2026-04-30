@@ -1,0 +1,7 @@
+[2026-03-03 07:44:12] smtp_mail_function | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","result":true}
+[2026-03-03 07:50:07] smtp_success | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
+[2026-03-03 07:57:55] smtp_success | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
+[2026-03-03 08:03:53] smtp_success | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
+[2026-03-03 08:05:02] smtp_success | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
+[2026-03-03 08:05:24] smtp_success | {"to":"vanisaindriyani30@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
+[2026-03-06 03:30:29] smtp_success | {"to":"lutfialrizki@gmail.com","subject":"Kode Verifikasi Reset Password - PSE Diskominfo","host":"smtp.gmail.com"}
